@@ -62,6 +62,8 @@ _NAMES = (
     'venv destroy',
     'venv run',
     'venv shell',
+
+    'version',
 )
 
 
